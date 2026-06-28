@@ -1,5 +1,5 @@
-# hamiltonian-cycle
-Hamiltonian cycle in polynomial time coplexity - O(n^6)
+# Detect Hamiltonian Cycle in polynomial time coplexity - O(n^6)
+
 1. Download [TSP Solver and Generator](https://tspsg.com/en/download)
 2. Open TSP solver -> settings -> preferences -> task
 3. Check symmetric mode.
